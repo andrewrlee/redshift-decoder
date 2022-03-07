@@ -1,0 +1,11 @@
+{
+  "name": "redshift-decorder",
+  "version": "1.0.0",
+  "description": "Decodes the message found at the end of the 1973 novel, Red Shift by Alan Garner",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./run.js"
+  },
+  "author": "Andrew Lee <plasma147@gmail.com>",
+  "license": "MIT"
+}
